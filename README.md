@@ -1,2 +1,2 @@
 # dummy-tutorial-site
-Dummy django app for hosting and sharing Python tutorials.
+Django app for hosting and sharing Python tutorials. Intuitive and easy to use for both the admin and the users.
